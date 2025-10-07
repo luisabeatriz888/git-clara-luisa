@@ -19,13 +19,10 @@ Um mini site estático feito com **HTML e CSS**, que demonstra boas práticas de
 Basta abrir o arquivo `index.html` no seu navegador!
 
 ## Tecnologias usadas
-- HTML5
-- CSS3
-- Git
 - GitHub
 
 ## Dupla
-- [Clara](https://github.com/seu-usuario-da-clara) *(substitua pelo GitHub dela!)*
+- [Clara](https://github.com/ClaraGeraseev) 
 - [Luísa Beatriz](https://github.com/luisabeatriz888)
 
 ## 📅 Entrega
